@@ -208,9 +208,9 @@ main {
     width: 100%;
     max-width: 100%;
     font-family: var(--font-serif);
-    font-size: clamp(1.2rem, 4.6vw, 3.4rem);
+    font-size: clamp(1rem, 3.6vw, 2.8rem);
     font-weight: 500;
-    line-height: 0.74;
+    line-height: 0.72;
     letter-spacing: -0.04em;
     color: var(--color-charcoal);
     text-wrap: balance;
